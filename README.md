@@ -1,0 +1,3 @@
+# javascripting
+
+basis javascript codes
